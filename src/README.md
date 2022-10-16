@@ -1,1 +1,2 @@
-Carpeta con archivos de código (no utlizada en este proyecto)
+Carpeta con archivos de código 
+Archivo Analisis exploratorio de Datos de Vinos.ipynb donde se podra revisar el codigo del EDA
