@@ -2,7 +2,7 @@
 
 El objetivo de este repositorio es implementar las buenas prácticas de acuerdo al paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
 
-La estructura que queremos que tenga este repositorio es la siguiente:
+La estructura que queremos que tenga este repositorio es la siguiente
 
     ├── LICENSE           <- MIT License.  
     |  
