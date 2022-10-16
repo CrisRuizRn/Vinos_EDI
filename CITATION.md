@@ -2,4 +2,4 @@
 
 Please cite this work as:
 
-Cristian OMar Ruiz Rincon. 2022. "Repo Structure". https://github.com/CrisRuizRn/Repo_structure
+Cristian Omar Ruiz Rincon. 2022. "Vinos_EDI". https://github.com/CrisRuizRn/Vinos_EDI
