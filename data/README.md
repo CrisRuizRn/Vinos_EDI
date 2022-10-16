@@ -1,1 +1,1 @@
-Carpeta con bases de datos originales
+Esta carpeta contiene el archivo Vinos.csv que se utiliza para el ejercicio de EDA.
